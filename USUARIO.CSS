@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(170, 174, 176);
+}
+h1{
+    text-align: left;
+    border-bottom: black;
+    font-size: 30px;
+}
+button{
+    background-color: #ffffff;
+}
+h2{
+    margin-bottom: 1px;
+    text-align: left;
+    
+}
+a{
+   color: black; 
+}
+p{
+    font-size: 25px;
+}

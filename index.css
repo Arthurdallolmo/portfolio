@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(170, 174, 176);
+    text-align: center;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 30px;
+    border: 10px;
+    border-radius:0%;
+    background-color:rgb(145, 155, 163);
+    font-size: 60px;
+    margin-top: 0px;
+    
+
+}
+a{
+    color:black;
+   
+}
+button{
+    background-color: #053676;
+}
